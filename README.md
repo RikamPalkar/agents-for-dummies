@@ -2,6 +2,20 @@
 
 Learn to build AI agents from scratch with hands-on tutorials and code examples. This repository contains practical, step-by-step guides for creating autonomous AI systems that can make decisions and chain multiple tasks together.
 
+## What We Are Building Here
+
+This project walks through a beginner-friendly, notebook-first implementation of an AI agent in Python.
+
+You will build a two-step agent chain where:
+
+1. The model makes a decision (selects a meal from constraints).
+2. That decision is automatically passed into a second model call (generates a complete recipe).
+
+This repository is paired with the original article and an in-repo notes version:
+
+- Original article: [Build Your AI Agent in Python From Scratch](https://www.c-sharpcorner.com/article/build-your-ai-agent-in-python-from-scratch/)
+- Repo notes: [docs/build-your-ai-agent-in-python-from-scratch.md](docs/build-your-ai-agent-in-python-from-scratch.md)
+
 ## What You'll Learn
 
 - **Agent Fundamentals**: Understand what AI agents are and how they work
@@ -30,6 +44,8 @@ Before diving into agents, understand the fundamentals:
 ```
 ├── agent.ipynb          # Interactive notebook - build your first agent
 ├── SETUP_GUIDE.md       # Detailed environment setup instructions
+├── docs/
+│   └── build-your-ai-agent-in-python-from-scratch.md  # Article-aligned notes for this project
 ├── .env.example         # Template for API keys
 └── README.md            # You are here
 ```
