@@ -1,0 +1,15 @@
+I'm a Senior Software Engineer and Software Architect with over eight years of experience designing and shipping enterprise systems that serve millions of users. 
+I work at the intersection of architecture and execution — where good ideas meet production reality.
+
+My conviction is simple: the most honest way to understand a tool is to build something real with it. Something that breaks under pressure, demands decisions, and teaches through consequence. 
+That philosophy runs through everything I do.
+
+Microsoft recognized me as a Most Valuable Professional. Amazon certified me as a Solutions Architect. I hold 24 professional certifications across AWS, Azure, AI/ML, and engineering leadership — not as résumé decoration, but as evidence of a need to understand systems deeply before trusting them with real workloads.
+
+I hold a Master of Computer Applications from VJTI Mumbai, a BSc IT from Vivek College, a Leadership Diploma, and a Lean Six Sigma Green Belt from SSAA.
+
+I've authored three technical books — Blazor Simplified, WPF Simplified, and Redis Simplified (in progress) — published research in peer-reviewed technical journals, and written over 230 articles for C# Corner, Medium, linkedin and the AWS Community Blog. 
+I contribute open-source work on data structures, architecture patterns, and full-stack development. 
+I enjoy explaining hard things without making them feel harder than they are.
+
+Outside of work, I love writing and solving problems. I share my home with Ollie, my five-year-old cat, who has strong opinions about keyboard time.

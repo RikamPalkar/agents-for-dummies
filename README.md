@@ -78,6 +78,8 @@ echo "OPENAI_API_KEY=your-key-here" > .env
 
 Get your API key at [platform.openai.com](https://platform.openai.com)
 
+> **Note:** The persona chatbot uses `gpt-4o-mini` for chat and `gpt-4o` for quality evaluation—both powered by OpenAI. Only one API key is needed.
+
 ### 4. Start Building
 ```bash
 # Open the notebook
