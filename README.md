@@ -40,7 +40,7 @@ Before diving into agents, understand the fundamentals:
 4. [Foundation Models: Everything, Everywhere, All at Once](https://www.c-sharpcorner.com/article/foundation-models-everything-everywhere-all-at-once/) - LLMs, GPT, and modern AI
 5. [The Fascinating History of AI: From Turing to Today](https://www.c-sharpcorner.com/article/the-fascinating-history-of-ai-from-turing-to-today/) - AI's evolution and milestones
 
-👉 [Read the complete AI for Dummies series](https://www.c-sharpcorner.com/members/rikam-palkar/articles/ai)
+👉 [Read the complete schrodinger AI's series](https://www.c-sharpcorner.com/members/rikam-palkar/articles/ai)
 
 ## Repository Structure
 
