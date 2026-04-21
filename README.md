@@ -1,4 +1,4 @@
-# AI Agents for Dummies
+# Fermi's Agents
 
 Learn to build AI agents from scratch with hands-on tutorials and code examples. This repository contains practical, step-by-step guides for creating autonomous AI systems that can make decisions and chain multiple tasks together.
 
@@ -16,6 +16,9 @@ This repository is paired with the original article and an in-repo notes version
 - Original article: [Build Your AI Agent in Python From Scratch](https://www.c-sharpcorner.com/article/build-your-ai-agent-in-python-from-scratch/)
 - Repo notes: [docs/build-your-ai-agent-in-python-from-scratch.md](docs/build-your-ai-agent-in-python-from-scratch.md)
 
+  If you'd rather see this in action instead of reading through all the steps, I've got you covered. Check out the
+  [![Watch video](https://img.youtube.com/vi/AjJvqsLg7ug/maxresdefault.jpg)](https://www.youtube.com/watch?v=AjJvqsLg7ug)
+
 ## What You'll Learn
 
 - **Agent Fundamentals**: Understand what AI agents are and how they work
@@ -27,7 +30,7 @@ This repository is paired with the original article and an in-repo notes version
 
 This series builds on foundational AI concepts. If you're new to AI, start here:
 
-### AI for Dummies Series
+### Schrodinger AI Series
 
 Before diving into agents, understand the fundamentals:
 
