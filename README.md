@@ -1,4 +1,4 @@
-# Fermi's Agents
+# Schrodingers-AI
 
 Learn to build AI agents from scratch with hands-on tutorials and code examples. This repository contains practical, step-by-step guides for creating autonomous AI systems that can make decisions and chain multiple tasks together.
 
