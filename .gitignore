@@ -30,6 +30,10 @@ AGENT_TUTORIAL.md
 .DS_Store
 Thumbs.db
 
+# .NET build outputs
+**/obj/
+**/bin/
+
 # Distribution / packaging
 dist/
 build/
