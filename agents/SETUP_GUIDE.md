@@ -170,7 +170,7 @@ my_agent("Write a story")
 
 **Creating a notebook in VS Code:**
 - `Cmd + Shift + P` → "Create: New Jupyter Notebook"
-- Or create a file: `agent.ipynb`
+- Or create a file in this repo structure: `agents/python/notebooks/agent.ipynb`
 
 **Key shortcuts:**
 - `Shift + Enter`: Run cell and move to next
@@ -238,7 +238,7 @@ deactivate
 
 Your setup is complete. Now you can:
 
-1. Create `agent.ipynb` notebook
+1. Open `agents/python/notebooks/agent.ipynb`
 2. Add your OpenAI API key to `.env`
 3. Start building AI agents that can:
    - Have conversations
@@ -249,4 +249,4 @@ Your setup is complete. Now you can:
 
 The interactive notebook lets you experiment, iterate, and refine your AI agent quickly.
 
-**Next:** Start coding your first agent in `agent.ipynb`!
+**Next:** Start coding your first agent in `agents/python/notebooks/agent.ipynb`!
